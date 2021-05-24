@@ -52,4 +52,5 @@ The data must be provided to the web component as follows:
     };
     xhttp.open('GET', 'https://services.zenmem.de/monitors.json', true);
     xhttp.send();
-</script>```
+</script>
+```
